@@ -39,6 +39,7 @@
 
   <PropertyGroup>
     <NoWarn>1701;1702;1591;1573;1712</NoWarn>
+    <TargetFramework>net9.0</TargetFramework>
   </PropertyGroup>
 
 
